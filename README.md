@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and c#
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me  eralp.satilmis@outlook.com
+- 📫 How to reach me  eralp.satilmis@outlook.com+denemeçğgr
 
 <!---
 rsnrslt/rsnrslt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

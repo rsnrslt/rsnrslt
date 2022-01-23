@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsnrslt
-- 👀 I’m interested in python and c#
-- 🌱 I’m currently learning python
+- 👀 I’m interested in c# and unity
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me  eralp.satilmis@outlook.com
 
